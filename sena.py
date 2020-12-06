@@ -13,8 +13,6 @@ SENAFULL=[]
 a1=0
 #==============================================================================
 
-
-
 for linha in ref_arquivo:
     valores = linha.split()
 #    print('N', valores[0],'Data',valores[1],'Soteiro', valores[2],valores[3],valores[4],valores[5],valores[6],valores[7])
